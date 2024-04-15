@@ -1,16 +1,17 @@
-### Hi there 👋
+# Ciao! 👋
 
-<!--
-**moscardino1/moscardino1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alessandro, a forward-thinking Data Engineer originally from Tuscany, Italy, currently based in Toronto, Canada. 
 
-Here are some ideas to get you started:
+## About Me
+- 💼 Google Data Engineer Certified
+- 💼 Azure Fundamentals Certified
+- 🌐 Specialized in Cloud Migrations, Data & Analytics
+- 🏔️ Outside of work, I enjoy hiking and exploring nature
+- 📰 I also like staying abreast of financial news
+- 🎵 Playing and exploring new music is one of my hobbies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me
+- ✉️ Email: [alessandrocarli90@gmail.com](mailto:alessandrocarli90@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/alessandrocarli90](https://linkedin.com/in/alessandrocarli90)
+- 🔗 GitHub: [github.com/moscardino1](https://github.com/moscardino1)
+
