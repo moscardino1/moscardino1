@@ -18,3 +18,18 @@ I'm Alessandro, a forward-thinking Data Engineer originally from Tuscany, Italy,
 - 🏔️ I enjoy hiking and exploring nature
 - 📰 I also like staying abreast of financial news
 - 🎵 Playing and exploring new music is one of my hobbies
+
+### :hammer_and_wrench: Languages and Tools :
+![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
+![SQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg)
+![Google Cloud](https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg)
+![Azure](https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg)
+![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
+![HTML](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)
+![Firebase](https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg)
+![CSS](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg)
+![SAS](https://github.com/devicons/devicon/blob/master/icons/sas/sas-original.svg)
+
+
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)](https://github.com/moscardino1/github-readme-stats)
